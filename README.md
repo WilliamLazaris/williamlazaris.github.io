@@ -69,11 +69,45 @@ Tools you have used:
 - Interactive
 - Sound
 
-**Data Science:**
+# Data Science and AI
 end-to-end in data science; stakeholder engagement, data exploration, data management, research, model selection, feature engineering, model building, testing, optimising & deployment 
+
+### Mathematics
+
+- Optimisation
+- Probability and Statistics
+- Linear Algebra
+- Discrete Maths
+- Calculus
+
+### Python
+
+### SQL
+
+### R
+
+### Excel
+
+### Machine Learning
+
+### Neural Networks
+
+### Deep Learning
+
+- Hands-on experience with machine learning libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn) and proficiency in programming languages such as Python, Scala and/or R.
+- Deep expertise with the various capabilities available when tailoring a model, e.g.:
+    - Learning paradigms (supervised, unsupervised, reinforcement)
+    - Problem types (classification, regression, generative)
+    - Architectures (linear models, trees, neural networks, ensembles)
+    - Purposes (predictive, descriptive, prescriptive)
+    - Hyperparameters (learning rate, epoch counts, depth)
+    - Other optimization techniques (feature engineering, regularization, tuning)
+    - Performance evaluation (recall, RMSE, learning curves, benchmarking)
 ![Python Overview](PythonOverview.png)
 
 ![Data Overview](DataOverview.png)
+
+
 
 **Mathematics:** 
 
