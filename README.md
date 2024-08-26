@@ -72,7 +72,7 @@ Tools you have used:
 **Data Science:**
 end-to-end in data science; stakeholder engagement, data exploration, data management, research, model selection, feature engineering, model building, testing, optimising & deployment 
 
-![Data Overview](https://prod-files-secure.s3.us-west-2.amazonaws.com/09f59a60-063a-4bbe-827a-aade000ffd58/919622c4-1288-4abe-90d3-c2ffc3fe8864/Untitled.png)
+![Data Overview](DataOverview.png)
 
 **Mathematics:** 
 
