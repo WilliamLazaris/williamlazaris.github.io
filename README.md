@@ -71,6 +71,7 @@ Tools you have used:
 
 **Data Science:**
 end-to-end in data science; stakeholder engagement, data exploration, data management, research, model selection, feature engineering, model building, testing, optimising & deployment 
+![Python Overview](PythonOverview.png)
 
 ![Data Overview](DataOverview.png)
 
