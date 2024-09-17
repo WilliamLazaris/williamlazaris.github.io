@@ -72,6 +72,11 @@ Tools you have used:
 # Data Science and AI
 end-to-end in data science; stakeholder engagement, data exploration, data management, research, model selection, feature engineering, model building, testing, optimising & deployment 
 
+### End to End Process
+- Cleaning
+- Exploration
+- Story Telling
+
 ### Mathematics
 
 - Optimisation
